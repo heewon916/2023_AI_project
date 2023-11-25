@@ -2,12 +2,12 @@ train: ../train/images
 val: ../valid/images
 test: ../test/images
 
-nc: 1
-names: ['helmet']
+nc: 2
+names: ['helmet', 'non-helmet']
 
 roboflow:
   workspace: ai-frgj9
   project: dkuai
-  version: 2
+  version: 3
   license: CC BY 4.0
-  url: https://universe.roboflow.com/ai-frgj9/dkuai/dataset/2
+  url: https://universe.roboflow.com/ai-frgj9/dkuai/dataset/3

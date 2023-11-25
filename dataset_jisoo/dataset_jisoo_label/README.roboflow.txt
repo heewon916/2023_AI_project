@@ -1,8 +1,8 @@
 
-dkuai - v2 2023-10-12 10:56pm
+dkuai - v3 2023-11-26 8:06am
 ==============================
 
-This dataset was exported via roboflow.com on November 1, 2023 at 2:50 AM GMT
+This dataset was exported via roboflow.com on November 25, 2023 at 11:07 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 50 images.
+The dataset includes 80 images.
 Scooter are annotated in YOLO v5 PyTorch format.
 
 The following pre-processing was applied to each image:
