@@ -1,8 +1,8 @@
 
-kickboard riders with-out helmet - v2 2023-11-19 10:53pm
+kickboard riders with-out helmet - v3 2023-11-27 3:05pm
 ==============================
 
-This dataset was exported via roboflow.com on November 19, 2023 at 1:54 PM GMT
+This dataset was exported via roboflow.com on November 27, 2023 at 6:06 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 80 images.
+The dataset includes 90 images.
 Helmet are annotated in YOLO v5 PyTorch format.
 
 The following pre-processing was applied to each image:

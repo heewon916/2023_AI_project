@@ -8,6 +8,6 @@ names: ['helmet', 'non-helmet']
 roboflow:
   workspace: 2023aiproject
   project: kickboard-riders-with-out-helmet
-  version: 2
+  version: 3
   license: Public Domain
-  url: https://universe.roboflow.com/2023aiproject/kickboard-riders-with-out-helmet/dataset/2
+  url: https://universe.roboflow.com/2023aiproject/kickboard-riders-with-out-helmet/dataset/3
